@@ -7,7 +7,7 @@ sudo apt install libgpiod-dev
 ```
 
 ## Client(rpi3)-Server(rpi5) Text Communication  
-![client-server-plan](docs/client-server-plan.jpg)
+![client-server-plan](https://github.com/jeremynguyenn/NRF24L01-transceiver-Client-rpi3--Server-rpi5-Text-Communication/blob/main/NRF24L01_RF/docs/client-server-plan.jpg)
 
 ![pinout_plan2](docs/pinout_plan2.png)
 
