@@ -1,6 +1,3 @@
-# NRF24L01_RF
-NRF24L01 transceiver Example programs using a raspberry pi 3b+. 
-
 # GPIOD INSTALL
 ```
 sudo apt install libgpiod-dev
@@ -9,7 +6,7 @@ sudo apt install libgpiod-dev
 ## Client(rpi3)-Server(rpi5) Text Communication  
 ![client-server-plan](https://github.com/jeremynguyenn/NRF24L01-transceiver-Client-rpi3--Server-rpi5-Text-Communication/blob/main/NRF24L01_RF/docs/client-server-plan.jpg)
 
-![pinout_plan2](docs/pinout_plan2.png)
+![pinout_plan2](https://github.com/jeremynguyenn/NRF24L01-transceiver-Client-rpi3--Server-rpi5-Text-Communication/blob/main/NRF24L01_RF/docs/pinout_plan2.png)
 
 ![nrf24l01_client-server](https://github.com/ChrisStewart132/ChrisStewart132/blob/main/assets/gifs/nrf24l01_client-server.gif?raw=true)
 
