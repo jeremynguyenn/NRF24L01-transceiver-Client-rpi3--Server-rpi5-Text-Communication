@@ -8,12 +8,11 @@ sudo apt install libgpiod-dev
 
 ![pinout_plan2](https://github.com/jeremynguyenn/NRF24L01-transceiver-Client-rpi3--Server-rpi5-Text-Communication/blob/main/NRF24L01_RF/docs/pinout_plan2.png)
 
-![nrf24l01_client-server](https://github.com/jeremynguyenn/NRF24L01-transceiver-Client-rpi3--Server-rpi5-Text-Communication/blob/main/NRF24L01_RF/docs/demos/NRF24L01_single_rpi_2_rf_4bitgrayscale.gif)
 
 ## 4BIT GRAYSCALE Video Stream Over RF (Single Host)
 ![rpicam stream over NRF24 plan](https://github.com/jeremynguyenn/NRF24L01-transceiver-Client-rpi3--Server-rpi5-Text-Communication/blob/main/NRF24L01_RF/docs/network_plan.png)
 
-![pinout_plan](docs/pinout_plan.png)
+![pinout_plan](https://github.com/jeremynguyenn/NRF24L01-transceiver-Client-rpi3--Server-rpi5-Text-Communication/blob/main/NRF24L01_RF/docs/pinout_plan.png)
 
-![demo](docs/demos/NRF24L01_single_rpi_2_rf_4bitgrayscale.gif) 
+![nrf24l01_client-server](https://github.com/jeremynguyenn/NRF24L01-transceiver-Client-rpi3--Server-rpi5-Text-Communication/blob/main/NRF24L01_RF/docs/demos/NRF24L01_single_rpi_2_rf_4bitgrayscale.gif)
 
