@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 09062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: NRF24L01 program to transmit 32 byte packets via stdin,
  * 
  * gcc -o NRF24L01_TX NRF24L01_TX.c -lgpiod
