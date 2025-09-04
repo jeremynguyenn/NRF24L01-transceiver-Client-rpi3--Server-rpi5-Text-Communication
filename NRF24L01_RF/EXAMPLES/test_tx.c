@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 03062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: program to test a NRF24 transceiver, register 0x2 is set to 1, registers 0x0 - 0x17 are read and should mostly be non-zero.
  * 
  * gcc -o test_tx test_tx.c -lgpiod
