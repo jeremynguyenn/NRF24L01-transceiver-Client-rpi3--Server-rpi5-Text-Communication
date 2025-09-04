@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 28092024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: NRF24L01 rpi program
  * 
  * gcc -o nrf24_transceiver nrf24_transceiver.c -lgpiod
