@@ -1,6 +1,6 @@
 '''
-    Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
-    Date: 23092024
+     * Author: Nguyen Nhan
+     * Date: 30042025
     Description: NRF24L01 rpi pico micropython program
         transceives on CHANNEL @ RX_ADDR_P0_BUFFER(5 byte addr) with P0_PACKET_SIZE
 '''
