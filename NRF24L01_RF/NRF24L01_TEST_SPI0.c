@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 14062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: program to read the current state of a NRF24 transceiver, registers 0x0 - 0x17 are read and output in a human readable format, and the radio is powered down.
  * 
  * gcc -o NRF24L01_TEST_SPI0 NRF24L01_TEST_SPI0.c -lgpiod
