@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 11062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: program to display a 128x160 16bit rgb (565) stream from stdin on a ST7735S 1.8" 128x160 LCD
  * 
  * gcc -o ST7735S_LCD_stdin_stream ST7735S_LCD_stdin_stream.c -lgpiod
