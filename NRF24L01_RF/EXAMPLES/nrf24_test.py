@@ -1,6 +1,6 @@
 '''
-    Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
-    Date: 23092024
+     * Author: Nguyen Nhan
+     * Date: 30042025
     Description: NRF24L01 rpi pico micropython program
 '''
 import sys
