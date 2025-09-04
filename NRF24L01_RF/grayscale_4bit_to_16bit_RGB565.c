@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 10062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: program to convert a stream of 128x160 4bit grayscale to 16bit rgb565
  * 
  * gcc -o grayscale_4bit_to_16bit_RGB565 grayscale_4bit_to_16bit_RGB565.c
