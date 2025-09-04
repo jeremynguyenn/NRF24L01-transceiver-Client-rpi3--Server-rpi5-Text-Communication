@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 05062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: NRF24L01 program to transmit on a NRF24 transceiver via stdin,
  * 
  * gcc -o tx_stdin tx_stdin.c -lgpiod
