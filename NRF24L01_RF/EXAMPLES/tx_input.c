@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 03062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: NRF24L01 program to transmit on a NRF24 transceiver via cmdline input,
  * 
  * gcc -o tx_input tx_input.c -lgpiod
