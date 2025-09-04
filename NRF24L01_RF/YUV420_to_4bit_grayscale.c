@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 10062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: program to convert an incoming stream of 128x160 yuv420 images to 64x160 4bit grayscale
  * 
  * gcc -o YUV420_to_4bit_grayscale YUV420_to_4bit_grayscale.c
