@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 22062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: program to read an incoming stream of 128x160 yuv420 images from a file and stdout at 30fps
  * 
  * gcc -o YUV420_Stream_From_File YUV420_Stream_From_File.c
