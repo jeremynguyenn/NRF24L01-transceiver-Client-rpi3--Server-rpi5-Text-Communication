@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 09062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: NRF24L01 program to receive and stdout 32 byte packets
  * 
  * gcc -o NRF24L01_RX NRF24L01_RX.c -lgpiod
