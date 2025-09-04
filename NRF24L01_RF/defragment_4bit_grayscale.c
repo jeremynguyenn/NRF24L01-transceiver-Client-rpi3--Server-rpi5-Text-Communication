@@ -1,6 +1,6 @@
 /**
- * Author: Christopher Stewart (Christopher.ray.stewart@gmail.com)
- * Date: 10062024
+ * Author: Nguyen Nhan
+ * Date: 30042025
  * Description: program to defragment an incoming stream 32 byte packets to 128x160 4bit grayscale
  * 
  * gcc -o defragment_4bit_grayscale defragment_4bit_grayscale.c
